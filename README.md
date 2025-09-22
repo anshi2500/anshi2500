@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I’m Anshi Khatri
+🎓 Computer Science student at the University of Calgary (Class of 2027)
+💻 I’m open to exploring everything in computer science — from mobile apps to web development to data, cloud, and security.
 
-<!--
-**anshi2500/anshi2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I’ve worked on:
 
-Here are some ideas to get you started:
+iOS Development: Built FlatMates, a Swift/SwiftUI + Firebase app for roommate matching, currently being demoed and prepared for App Store submission.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Development: Created MyBookList, a React + Node.js book recommendation system with a MySQL backend and real-time search.
+
+Software Engineering: Developed a Java-based self-checkout system with JUnit testing and UML design as part of a 21-person Agile team.
+
+Data & Analytics: Experience building machine learning models, dashboards, and pipelines with Python, SQL, and Databricks.
+
+⚡ Tech I use:
+
+Languages: Java, C++, Python, Swift, JavaScript, SQL
+
+Frameworks & Tools: React, Node.js, Firebase, Databricks, GitHub/GitLab, Xcode, IntelliJ
+
+Other Interests: Cloud (Azure), Machine Learning, Cybersecurity
+
+🌱 Always learning, always curious, and always excited to try new things.
+
