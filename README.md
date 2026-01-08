@@ -1,6 +1,7 @@
 👋 Hi, I’m Anshi Khatri
 🎓 Computer Science student at the University of Calgary (Class of 2027)
-💻 I’m open to exploring everything in computer science — from mobile apps to web development to data, cloud, and security.
+💻 I’m open to exploring everything in computer science — from mobile apps to web development to data, cloud, and security. Check out my personal portfolio [here](https://anshi-khatri.vercel.app/)
+
 
 🚀 What I’ve worked on:
 
